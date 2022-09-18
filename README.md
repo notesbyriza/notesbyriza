@@ -6,7 +6,7 @@ Well, it's not my first account. I use this as a medium to make notes about the 
 
 **Jiayou!**
 
-## 🔗 Links
+## 🔗 More about me
 [![portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rizaisnakhoir)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaisnakhoir/)
 
