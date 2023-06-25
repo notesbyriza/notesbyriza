@@ -2,7 +2,7 @@
 
 I'm _a final-year undergraduate mathematics student_ who is highly interested and curious about the **data field**, **machine learning**, and **digital things**. I enjoy writing so much, this is one of the ways that I like the most to communicate with myself and other people.
 
-Well, it's not my primary account. I use this as a medium to make notes about the things I'm currently studying. If you don't mind connecting with me on my main account, you can reach me through [this account](https://www.github.com/rizaisnakhoir/). 
+Well, I use this account as a medium to make notes about the things I'm currently studying and so on. If you don't mind, we can also connect in my personal account, you can reach me through [this account](https://www.github.com/rizaisnakhoir/). 
 
 **Jiayou!**
 
