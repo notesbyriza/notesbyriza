@@ -1,8 +1,8 @@
 # Hi there! Riza's here 👋
 
-I'm _a final-year undergraduate mathematics student_ who is highly interested and curious about the **data field**, **machine learning**, and **digital things**. I enjoy writing so much, this is one of the ways that I like the most to communicate with myself and other people.
+I'm _a fresh graduate in mathematics_ with a focus on computation, which was also the topic of my thesis. Throughout my college years, my enthusiasm for the **data field** has steadily increased, and that passion continues today. Also, I enjoy writing so much! I find this to be one of my favorite means of self-expression and communication with others.
 
-Well, I use this account as a medium to make notes about the things I'm currently studying and so on. If you don't mind, we can also connect in my personal account, you can reach me through [this account](https://www.github.com/rizaisnakhoir/). 
+I use this account as a platform for taking notes on what I'm currently studying and more. I'm open to opportunities for mutual sharing and learning together 🤝 
 
 **Jiayou!**
 
