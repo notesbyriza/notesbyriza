@@ -7,6 +7,6 @@ I use this account as a platform for taking notes on what I'm currently studying
 **Jiayou!**
 
 ## 🔗 More about me
-[![portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rizaisnakhoir)
+[![portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@notesbyriza)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaisnakhoir/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notesbyriza/)
