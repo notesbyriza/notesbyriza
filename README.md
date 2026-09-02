@@ -1,10 +1,8 @@
 # Hi there! Riza's here 👋
 
-Math major turned data enthusiast — somewhere along the way I fell hard for **data storytelling** and haven't looked back since. Always working on getting better at finding the story in the numbers (and telling it well). I also love **writing**, it's just my thing.
+A math graduate who somehow ended up falling in love with data. Along the way, I realized how much I enjoy turning numbers into stories and making them easier to understand. I’m always trying to get better at finding the story behind the data and (of course) telling it well.
 
-This account is basically my study notes turned public 📝 Open to learning together if you're around — feel free to say hi 🤝
-
-**Jiayou!**
+Just sharing my notes, little projects, and things I find interesting along the way 📝 Feel free to stick around and say hi 🤝
 
 ## 🔗 Hit me up!
 [![portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.rizaikho.medium.com/)
